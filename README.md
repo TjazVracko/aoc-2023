@@ -6,6 +6,18 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 Using [this](https://github.com/fspoettel/advent-of-code-rust) template.
 
+<!--- advent_readme_stars table --->
+
+<!--- benchmarking table --->
+## Benchmarks
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---:  |
+| [Day 1](./src/bin/01.rs) | `42.5µs` | `1.4ms` |
+
+**Total: 1.44ms**
+<!--- benchmarking table --->
+
 ## Usage
 
 ### ➡️ Scaffold a day
@@ -31,7 +43,7 @@ Every [solution](https://github.com/fspoettel/advent-of-code-rust/blob/main/src/
 
 ### ➡️ Download input for a day
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > This requires [installing the aoc-cli crate](#configure-aoc-cli-integration).
 
 You can automatically download puzzle input and description by either appending the `--download` flag to `scaffold` (e.g. `cargo scaffold 4 --download`) or with the separate `download` command:
