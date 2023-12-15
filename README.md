@@ -14,8 +14,9 @@ Using [this](https://github.com/fspoettel/advent-of-code-rust) template.
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
 | [Day 1](./src/bin/01.rs) | `42.5µs` | `1.4ms` |
+| [Day 2](./src/bin/02.rs) | `44.7µs` | `46.2µs` |
 
-**Total: 1.44ms**
+**Total: 1.53ms**
 <!--- benchmarking table --->
 
 ## Usage
